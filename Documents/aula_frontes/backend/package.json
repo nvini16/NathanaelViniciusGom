@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "pasta backend do projeto",
+  "homepage": "https://github.com/nvini16/frontend_aula#readme",
+  "bugs": {
+    "url": "https://github.com/nvini16/frontend_aula/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvini16/frontend_aula.git"
+  },
+  "license": "ISC",
+  "author": "Nathanael",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
